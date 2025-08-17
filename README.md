@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Your Name Here]
+# Hi there 👋, I'm Daniel Lifshits
 
-### Full-Stack Developer | DevOps Enthusiast | Tech Explorer
+### Full-Stack Developer | Backend Engineer | Backend Developer
 
 Welcome to my corner of the internet! I'm a passionate developer specializing in building robust, scalable applications with a focus on clean code and efficient architecture. I love solving complex problems and am always excited to learn new technologies.
 
