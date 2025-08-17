@@ -26,7 +26,7 @@
 ### 🛠️ Tools & Platforms
 
 ### 🎓 Certifications
-[![CCNA]()
+![CCNA]()
 
 ---
 
