@@ -52,6 +52,8 @@ Welcome to my corner of the internet! I'm a passionate developer specializing in
 
 ### 🎓 Certifications
 ![CCNA](https://img.shields.io/badge/CCNA-005073?style=for-the-badge&logo=cisco&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto%20Networks-009BDB?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![John Bryce College](https://img.shields.io/badge/John%20Bryce%20College-333333?style=for-the-badge&logoColor=white)
 
 ---
 
