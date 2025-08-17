@@ -26,7 +26,7 @@
 ### 🛠️ Tools & Platforms
 
 ### 🎓 Certifications
-![CCNA]()
+![CCNA](https://img.shields.io/badge/CCNA-005073?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
